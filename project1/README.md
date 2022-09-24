@@ -17,4 +17,4 @@ After running the application, just type the  [local url for Swagger UI](http://
 
 
 
-  _**`DAVRON ISMOILOV`**_
+
